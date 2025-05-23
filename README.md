@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**
    ```bash
-   git clone git clone https://github.com/AnilSonawa/Profile-Exploror-task.git
+   git clone git clone https://github.com/AnilSonawane2/Profile-Exploror-task.git
    cd Profile-Exploror-task
 
 2. **Install Dependencies**
