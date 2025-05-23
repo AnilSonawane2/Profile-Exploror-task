@@ -1,12 +1,36 @@
-# React + Vite
+# Profile Explorer Task
+A React.js application designed to explore and display user profiles. This project utilizes modern React features and follows best practices for scalability and maintainability.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+- Interactive user profile exploration
+- Responsive design for various devices
+- Modular and reusable components
+- State management using React Hooks
+- Routing with React Router
 
-Currently, two official plugins are available:
+📦 Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before you begin, ensure you have met the following requirements:
+- Node.js (version 14 or higher)
+- npm (version 6 or higher) or yarn (version 1.22 or higher)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Installation
+### Steps To Install in Local Device
+
+1. **Clone the repository**
+   ```bash
+   git clone git clone https://github.com/AnilSonawa/Profile-Exploror-task.git
+   cd Profile-Exploror-task
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+
+4. **Open in Browser**
+   ```bash
+   http://localhost:5173
