@@ -1,21 +1,21 @@
 # Profile Explorer Task
 A React.js application designed to explore and display user profiles. This project utilizes modern React features and follows best practices for scalability and maintainability.
 
-🚀 Features
+## 🚀 Features
 - Interactive user profile exploration
 - Responsive design for various devices
 - Modular and reusable components
 - State management using React Hooks
 - Routing with React Router
 
-📦 Prerequisites
+## 📦 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 - Node.js (version 14 or higher)
 - npm (version 6 or higher) or yarn (version 1.22 or higher)
 
 
-🛠️ Installation
+## 🛠️ Installation
 ### Steps To Install in Local Device
 
 1. **Clone the repository**
